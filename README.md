@@ -23,7 +23,7 @@ The system is built around a microservices architecture. An **API Gateway** (Exp
 ## Installation & Usage
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Baga6312/ServiceWebProject
 cd ProjetWebService
 docker-compose up --build
 ```
